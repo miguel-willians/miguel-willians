@@ -2,47 +2,46 @@
 Eu sou @miguel-willians, um desenvolvedor apaixonado por Front-end e Cibersegurança.
 
 ## Habilidades
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333?style=flat&logo=microsoft-sql-server)
+
+- **Linguagens**: JavaScript, Python, Java, HTML5
+- **Estilização**: CSS3, Tailwind CSS
+- **Bibliotecas**: React
+- **Banco de dados**: PostgreSQL, SQL Server
+- **Design**: Figma, Adobe Photoshop, Illustrator
 
 ## 🚀 Principais projetos
-- [usePopcorn](https://github.com/miguel-willians/usePopcorn): Aplicativo React para busca de filmes e gerenciamento de lista de assistidos.
-- [Far Away](https://github.com/miguel-willians/Far-Away): Gerenciador de checklist de viagens com acompanhamento de progresso.
-- [Genius](https://github.com/miguel-willians/Genius): Uma versão do clássico jogo Genius criada usando HTML, CSS e JavaScript.
+- **[Fast React Pizza V2](https://github.com/miguel-willians/fast-react-pizza-v2)**: Uma versão atualizada do meu primeiro projeto feito em React, com auxílio de frameworks como o React Router, o Redux e o TailwindCSS para estilização.
+- **[Worldwise](https://github.com/miguel-willians/worldwise)**: Meu primeiro projeto fullstack, Worldwise é uma Single Page Application para ambientes desktop. Seu front-end foi construído a partir do React com auxílio de React Router, ContextAPI e Styled Components para estilização. Já seu back-end foi construído a partir do Spring Boot com integração ao banco de dados PostgreSQL. 
+- **[usePopcorn](https://github.com/miguel-willians/usePopcorn)**: Aplicação desktop construída em React para busca de filmes e gerenciamento de lista de assistidos.
 
 ## 🌱 O que estou aprendendo atualmente
 - Aprofundando meus conhecimentos em React e Cibersegurança.
-- Começando meus estudos em Java e PHP.
 - ⏳ CARREGANDO...
 
 ## Vamos nos Conectar!
 - [LinkedIn](www.linkedin.com/in/miguel-willians-176442266)
 
+---
 
-# Hello! 👋 🇺🇸
-I'm @miguel-willians, a passionate Front-end Developer and Cybersecurity enthusiast.
+# Hello! 👋  
+I'm @miguel-willians, a developer passionate about Front-end and Cybersecurity.
 
-## Skills
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333?style=flat&logo=microsoft-sql-server)
+## Skills  
 
-## 🚀 Featured Projects
-- [usePopcorn](https://github.com/miguel-willians/usePopcorn): React app for movie search and watchlist management.
-- [Far Away](https://github.com/miguel-willians/Far-Away): Travel packing checklist manager with progress tracking.
-- [Genius](https://github.com/miguel-willians/Genius): A version of the classic Genius game created using HTML, CSS, and JavaScript.
+- **Languages:** JavaScript, Python, Java, HTML5  
+- **Styling:** CSS3, Tailwind CSS  
+- **Libraries:** React  
+- **Databases:** PostgreSQL, SQL Server  
+- **Design:** Figma, Adobe Photoshop, Illustrator  
 
-## 🌱 What I'm currently learning
-- Deepening my knowledge of React and Cybersecurity.
-- Starting my studies in Java and PHP.
-- ⏳ LOADING...
-  
-## Let's Connect!
-- [LinkedIn](www.linkedin.com/in/miguel-willians-176442266)
+## 🚀 Key Projects  
+- **[Fast React Pizza V2](https://github.com/miguel-willians/fast-react-pizza-v2):** An updated version of my first React project, utilizing frameworks like React Router, Redux, and TailwindCSS for styling. 
+- **[Worldwise](https://github.com/miguel-willians/worldwise):** My first full-stack project, Worldwise is a Single Page Application designed for desktop environments. The front end is built with React, leveraging React Router, Context API, and Styled Components for styling. The back end is powered by Spring Boot with PostgreSQL database integration.  
+- **[usePopcorn](https://github.com/miguel-willians/usePopcorn):** A desktop application built with React for movie searching and watchlist management.  
+
+## 🌱 What I'm Currently Learning  
+- Deepening my knowledge in React and Cybersecurity.  
+- ⏳ LOADING...  
+
+## Let's Connect!  
+- **[LinkedIn](www.linkedin.com/in/miguel-willians-176442266)**  
