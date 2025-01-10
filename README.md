@@ -11,7 +11,7 @@ Eu sou @miguel-willians, um desenvolvedor apaixonado por Front-end e Cibersegura
 
 ## 🚀 Principais projetos
 - **[Fast React Pizza V2](https://github.com/miguel-willians/fast-react-pizza-v2)**: Uma versão atualizada do meu primeiro projeto feito em React, com auxílio de frameworks como o React Router, o Redux e o TailwindCSS para estilização.
-- **[Worldwise](https://github.com/miguel-willians/worldwise)**: Meu primeiro projeto fullstack, Worldwise é uma Single Page Application para ambientes desktop. Seu front-end foi construído a partir do React com auxílio de React Router, ContextAPI e Styled Components para estilização. Já seu back-end foi construído a partir do Spring Boot com integração ao banco de dados PostgreSQL. 
+- **[Worldwise](https://github.com/miguel-willians/worldwise)**: Meu primeiro projeto fullstack, Worldwise é uma Single Page Application para ambientes desktop. Seu front-end foi construído a partir do React com auxílio de React Router, ContextAPI e CSS Modules para estilização. Já seu back-end foi construído a partir do Spring Boot com integração ao banco de dados PostgreSQL. 
 - **[usePopcorn](https://github.com/miguel-willians/usePopcorn)**: Aplicação desktop construída em React para busca de filmes e gerenciamento de lista de assistidos.
 
 ## 🌱 O que estou aprendendo atualmente
